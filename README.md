@@ -7,7 +7,7 @@ this function will zip s3 file and upload to another bucket.<br>
 1. Create a lambda function named S3ServiceTar.<br>
 1. Upload the main.zip(built by gobuild.cmd).
 1. change the function setup. 
-<br>
+
 ![setup](https://github.com/cereskou/agent-s3zip/blob/main/images/lambda-set.png)
 
 ### Setup S3 bucket event (sorry for japanese)
